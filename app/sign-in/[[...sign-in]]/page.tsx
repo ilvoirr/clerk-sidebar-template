@@ -53,7 +53,7 @@ export default function SignInPage() {
               colorPrimary: "#48837e",
               colorText: "#2d726a",
               colorInputBackground: "#f0fce4",
-              colorAlphaShade: "#e7f9f3",
+              colorNeutral: "#e7f9f3",
               colorBackground: "#ffffff",
   
               colorTextSecondary: "#6b7280",
